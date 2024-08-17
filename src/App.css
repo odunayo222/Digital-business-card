@@ -1,0 +1,115 @@
+.card-info {
+  background-color: #1A1B21;
+  padding: 20px;
+  margin-top: -5px;
+}
+.card-content p, h2, small {
+  text-align: center;
+}
+#sm {
+  color: #fff;
+  display: block;
+}
+button{
+  font-size: 16px;
+  cursor: pointer;
+  color: rgb(55, 65, 81);
+  padding: 10px 10px;
+  margin: 10px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  border-radius: 5px;
+}
+button a {
+  text-decoration: none;
+  color: #fff;
+}
+.button{
+  margin-top: 10px;
+}
+#linked{
+  background-color: #5093E2;
+  color:#fff;
+}
+div.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+h3 {
+  color: #F3BF99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: smaller;
+  padding: 5px;
+}
+h2 {
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.interests h4{
+  text-align: left;
+  padding-bottom: 5px;
+}
+.card-about p{
+  font-size: 10.24px;
+  font-weight: lighter;
+  line-height: 1.5;
+  text-align: justify;
+}
+.interests, .card-about {
+  color: #fff;
+  margin: auto;
+  padding: 15px;
+  
+}
+.interests p{
+  font-size: 10.24px;
+  font-weight: lighter;
+  line-height: 1.5;
+  text-align: justify;
+}
+div.container {
+  margin: 50px;
+  width: 300px;
+}
+.card-about{
+  text-align: left;
+  color: #fff;
+  width: 300px;
+  background-color: #1A1B21;
+  margin: auto;
+}
+img{
+  border-radius: 15px 15px 0px 0px;
+}
+p{
+  color: #fff;
+  padding: 10px;
+  
+}
+.interests {
+  background-color: #1A1B21;
+}
+footer {
+  background-color: #161619;
+  border-radius: 0px 0px 15px 15px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer > a {
+  color: #fff;
+  margin: 10px;
+  font-size: medium;
+}
+h4 {
+  padding-left: 10px;
+}

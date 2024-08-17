@@ -1,0 +1,10 @@
+-Declarative programming: simlying tell it what to be done
+                          "just tell me what to do i'll figure it out myself" (react makes this possible)
+
+-Imperative programming: "describe to me every step how to do something and ill do it"
+
+-in react, you can only render a parent element
+-jsx returns plan javascript object
+-<></> are called fragments
+-writing declaratively leads to fewer bugs and it is advised
+ 
